@@ -14,7 +14,7 @@ Live Project List:
 1. Restaurent: https://tsr-restaurent.web.app/
 2. Social Media Application: https://trustbookk.netlify.app/
 3. e-commerce: https://oribi-react.netlify.app/
-4. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/shop
+4. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/
 5. BWFC (design only): https://bwfc-bff.netlify.app/
 6. Creative bank (javascript): https://tushar-creative-bank.netlify.app/
 7. Todo (javascript): https://zesty-naiad-e0c793.netlify.app/
