@@ -1,6 +1,8 @@
+![MERN full stack developer || Node js || Express js || MongoDB](https://media.licdn.com/dms/image/D5616AQG-fJiY7yNMbg/profile-displaybackgroundimage-shrink_350_1400/0/1674448071452?e=1709164800&v=beta&t=hsQW6_NLLrdMy10rUwrl-GuqOshW6eh2RuLDd3qLJVk)
+
 ### Hi there 👋, I am Tushar Hossen
 #### MERN full stack developer || Node js || Express js || MongoDB
-![MERN full stack developer || Node js || Express js || MongoDB](https://media.licdn.com/dms/image/D5616AQG-fJiY7yNMbg/profile-displaybackgroundimage-shrink_350_1400/0/1674448071452?e=1709164800&v=beta&t=hsQW6_NLLrdMy10rUwrl-GuqOshW6eh2RuLDd3qLJVk)
+
 
 👋 Hello, I'm Tushar Hossen, a passionate React developer with a thirst for learning and a drive for creating immersive web experiences. As a dedicated fresher in the world of web development, I've honed my skills in HTML, CSS, and JavaScript, and I specialize in crafting seamless user interfaces using React.js.
 
