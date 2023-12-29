@@ -10,6 +10,15 @@
 
 Happy coding! 🚀
 
+Live Project List:
+1. Restaurent: https://tsr-restaurent.web.app/
+2. Social Media Application: https://trustbookk.netlify.app/
+3. e-commerce: https://oribi-react.netlify.app/
+4. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/shop
+5. BWFC (design only): https://bwfc-bff.netlify.app/
+6. Creative bank (javascript): https://tushar-creative-bank.netlify.app/
+7. Todo (javascript): https://zesty-naiad-e0c793.netlify.app/
+
 Skills:  REACT / JS / Node / Express / MongoDB / Next
 
 - 🔭 I’m currently working on Node js 
@@ -22,13 +31,9 @@ Skills:  REACT / JS / Node / Express / MongoDB / Next
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tushar-h789)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-h789)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-h789&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/tushar-h789)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tushar-h789)  
 
