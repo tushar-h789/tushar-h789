@@ -14,7 +14,7 @@ Live Project List:
 1. Restaurent: https://tsr-restaurent.web.app/
 2. e-commerce (Full stack): https://fatema-agro-client.web.app/
 3. Social Media Application: https://trustbookk.netlify.app/
-4. e-commerce: https://oribi-react.netlify.app/
+4. e-commerce (design): https://oribi-react.netlify.app/
 5. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/
 6. BWFC (design only): https://bwfc-bff.netlify.app/
 7. Creative bank (javascript): https://tushar-creative-bank.netlify.app/
