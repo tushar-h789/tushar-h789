@@ -16,7 +16,7 @@ Live Project List:
 3. Social Media Application: https://trustbookk.netlify.app/
 4. Furniture Landing page with Next.js: https://solutyafurnituredb.vercel.app/
 5. e-commerce (design): https://oribi-react.netlify.app/
-6. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/
+6. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/shop
 7. BWFC (design only): https://bwfc-bff.netlify.app/
 8. Creative bank (javascript): https://tushar-creative-bank.netlify.app/
 9. Todo (javascript): https://zesty-naiad-e0c793.netlify.app/
