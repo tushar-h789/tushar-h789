@@ -10,13 +10,13 @@
 - **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS, Material UI
 - **State Management**: React Redux Toolkit, Context API, Custom Hooks
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Other Tools**: Next.js
+- **Database**: MongoDB, PostgreSQL
+- **Other Tools**: Next.js, Prisma, Docker
 
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently Working On**: Node.js Projects
+- 🔭 **Currently Working On**: Next.js Client-Side and Server Actions, Prisma, PostgreSQL, Docker
 - 🌱 **Currently Learning**: Node.js, Express.js, MongoDB, Next.js
 - 👯 **Looking to Collaborate**: On GitHub open-source projects
 - 💬 **Ask Me About**: Web design and development, especially React and Node.js
@@ -49,7 +49,7 @@
 
 ### 📫 Connect with Me
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/tushar-h789) [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/tushar-h789/) [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/tusharH789) [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/tusharh789/) [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/tusharH789) [![CodePen](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg)](https://codepen.io/tushar-h789) [![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/tushar-imran) [![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://tsr-restaurent.web.app/)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/tushar-h789){:height="20px"} [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/tushar-h789/){:height="20px"} [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/tusharH789){:height="20px"} [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/tusharh789/){:height="20px"} [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/tusharH789){:height="20px"} [![CodePen](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg)](https://codepen.io/tushar-h789){:height="20px"} [![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/tushar-imran){:height="20px"} [![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://tsr-restaurent.web.app/){:height="20px"}
 
 ---
 
