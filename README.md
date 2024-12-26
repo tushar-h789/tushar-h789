@@ -60,9 +60,6 @@
 
 ---
 
-![Animated Badges](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif) ![Dev Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif) ![Pro Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) ![Star Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif) ![Sponsor Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif){:width="50px", style="margin-right:20px"}
-
----
 
 ### 🌟 Extra Features
 - 🛠 **Development Tools**: Visual Studio Code, Postman, Git
