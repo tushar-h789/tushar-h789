@@ -60,10 +60,6 @@
 
 ---
 
-![Animated Badges](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif) ![Dev Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif) ![Pro Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) ![Star Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif) ![Sponsor Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif)
-
----
-
 ### 🌟 Extra Features
 - 🛠 **Development Tools**: Visual Studio Code, Postman, Git
 - 🧩 **Personal Interests**: Machine Learning, Blockchain Development
