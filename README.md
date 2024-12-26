@@ -1,41 +1,60 @@
-![MERN full stack developer || Node js || Express js || MongoDB](https://media.licdn.com/dms/image/D5616AQG-fJiY7yNMbg/profile-displaybackgroundimage-shrink_350_1400/0/1674448071452?e=1709164800&v=beta&t=hsQW6_NLLrdMy10rUwrl-GuqOshW6eh2RuLDd3qLJVk)
+# Hi there 👋, I'm Tushar Hossen
 
-### Hi there 👋, I am Tushar Hossen
-#### MERN full stack developer || Node js || Express js || MongoDB
+## MERN Full Stack Developer | Node.js | Express.js | MongoDB
 
+👋 Hello! I'm Tushar Hossen, a passionate React developer committed to creating immersive web experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in developing seamless user interfaces using React.js and other modern tools.
 
-👋 Hello, I'm Tushar Hossen, a passionate React developer with a thirst for learning and a drive for creating immersive web experiences. As a dedicated fresher in the world of web development, I've honed my skills in HTML, CSS, and JavaScript, and I specialize in crafting seamless user interfaces using React.js.
+---
 
-🚀 My journey in the tech world has allowed me to delve deep into technologies such as Tailwind CSS, Material UI, React Redux Toolkit, Context API, and custom hooks. With a keen eye for detail and a love for clean and intuitive design, I take pride in developing responsive web applications that leave a lasting impact.
+### 🚀 Technologies & Skills
+- **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS, Material UI
+- **State Management**: React Redux Toolkit, Context API, Custom Hooks
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Other Tools**: Next.js
 
-Happy coding! 🚀
+---
 
-Live Project List:
-1. Restaurent: https://tsr-restaurent.web.app/
-2. e-commerce (Full stack): https://fatema-agro-client.web.app/
-3. Social Media Application: https://trustbookk.netlify.app/
-4. Furniture Landing page with Next.js: https://solutyafurnituredb.vercel.app/
-5. e-commerce (design): https://oribi-react.netlify.app/
-6. Amazon shopping (javascript): https://amazon-shopping-c.netlify.app/shop
-7. BWFC (design only): https://bwfc-bff.netlify.app/
-8. Creative bank (javascript): https://tushar-creative-bank.netlify.app/
-9. Todo (javascript): https://zesty-naiad-e0c793.netlify.app/
+### 🌟 About Me
+- 🔭 **Currently Working On**: Node.js Projects
+- 🌱 **Currently Learning**: Node.js, Express.js, MongoDB, Next.js
+- 👯 **Looking to Collaborate**: On GitHub open-source projects
+- 💬 **Ask Me About**: Web design and development, especially React and Node.js
 
-Skills:  REACT / JS / Node / Express / MongoDB / Next
+---
 
-- 🔭 I’m currently working on Node js 
-- 🌱 I’m currently learning Node js, Express js, MongoDB, Next js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web design and development 
+### 🌐 Live Projects
+1. [E-commerce (Full Stack)](https://www.fatemaagro.com/)
+2. [Landing Page (Animation)](https://axtra-digital-agency.vercel.app/)
+3. [Restaurant](https://tsr-restaurent.web.app/)
+4. [Social Media Application](https://trustbookk.netlify.app/)
+5. [Furniture Landing Page with Next.js](https://solutyafurnituredb.vercel.app/)
+6. [E-commerce (Design)](https://oribi-react.netlify.app/)
+7. [Amazon Shopping (JavaScript)](https://amazon-shopping-c.netlify.app/shop)
+8. [BWFC (Design Only)](https://bwfc-bff.netlify.app/)
+9. [Creative Bank (JavaScript)](https://tushar-creative-bank.netlify.app/)
+10. [To-Do App (JavaScript)](https://zesty-naiad-e0c793.netlify.app/)
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tushar-h789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tushar-h789/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tusharH789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tusharh789/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tusharH789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/tushar-h789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/tushar-imran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tsr-restaurent.web.app/)  
+### 📊 GitHub Stats
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-h789&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-h789)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar-h789&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-h789&show_icons=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=tushar-h789&theme=tokyonight)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tushar-h789)  
+---
 
+### 📫 Connect with Me
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/tushar-h789) [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/tushar-h789/) [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/tusharH789) [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/tusharh789/) [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/tusharH789) [![CodePen](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg)](https://codepen.io/tushar-h789) [![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/tushar-imran) [![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://tsr-restaurent.web.app/)
+
+---
+
+![Animated Badges](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif) ![Dev Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif) ![Pro Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) ![Star Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif) ![Sponsor Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif)
+
+---
+
+Happy Coding! 🚀
