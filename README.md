@@ -47,6 +47,19 @@
 
 ---
 
+### 📫 Connect with Me
+
+<a href="https://github.com/tushar-h789" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="20px"/></a>
+<a href="https://www.linkedin.com/in/tushar-h789/" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="20px"/></a>
+<a href="https://www.facebook.com/tusharH789" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="20px"/></a>
+<a href="https://www.instagram.com/tusharh789/" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="20px"/></a>
+<a href="https://twitter.com/tusharH789" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="20px"/></a>
+<a href="https://codepen.io/tushar-h789" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" width="20px"/></a>
+<a href="https://stackoverflow.com/users/tushar-imran" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" width="20px"/></a>
+<a href="https://tsr-restaurent.web.app/" style="display:inline-block; margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" width="20px"/></a>
+
+---
+
 ![Animated Badges](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif) ![Dev Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif) ![Pro Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) ![Star Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif) ![Sponsor Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif)
 
 ---
