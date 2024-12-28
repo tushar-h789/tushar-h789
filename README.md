@@ -49,7 +49,7 @@
 
 ### 📫 Connect with Me
 
-<a href="https://github.com/tushar-h789" style="display:inline-block; margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="50px"/></a>
+<a href="https://github.com/tushar-h789" style="display:inline-block; margin-right:20px; colour:white"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="50px"/></a>
 <a href="https://www.linkedin.com/in/tushar-h789/" style="display:inline-block; margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="50px"/></a>
 <a href="https://www.facebook.com/tusharH789" style="display:inline-block; margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="50px"/></a>
 <a href="https://www.instagram.com/tusharh789/" style="display:inline-block; margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="50px"/></a>
