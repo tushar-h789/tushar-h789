@@ -24,16 +24,26 @@
 ---
 
 ### 🌐 Live Projects
-1. [E-commerce (Full Stack)](https://www.fatemaagro.com/)
-2. [Landing Page (Animation)](https://axtra-digital-agency.vercel.app/)
-3. [Restaurant](https://tsr-restaurent.web.app/)
-4. [Social Media Application](https://trustbookk.netlify.app/)
-5. [Furniture Landing Page with Next.js](https://solutyafurnituredb.vercel.app/)
-6. [E-commerce (Design)](https://oribi-react.netlify.app/)
-7. [Amazon Shopping (JavaScript)](https://amazon-shopping-c.netlify.app/shop)
-8. [BWFC (Design Only)](https://bwfc-bff.netlify.app/)
-9. [Creative Bank (JavaScript)](https://tushar-creative-bank.netlify.app/)
-10. [To-Do App (JavaScript)](https://zesty-naiad-e0c793.netlify.app/)
+1. [Social Media Exchange (Full Stack)](https://ollivu.com/)
+2. [Franchise buy and sell (Full Stack)](https://gulffranchisehub.com/)
+3. [E-commerce (Full Stack)](https://www.fatemaagro.com/)
+4. [Doctor apointment - telemedicine (Full Stack)](https://telemedicine-client.vercel.app/)
+5. [Get Users question and answer (Full Stack)](https://sqa-ai-frontend.vercel.app/)
+6. [The Baby grow - landing page](https://www.thebabygrow.co.uk/)
+7. [Dedeno Your markets connected - products filtering](https://osofia001-frontend.vercel.app/)
+8. [Students career calculator - result based filtering career](https://careercalculator.co.uk/)
+9. [Influencer hire and make video](https://jasonscoop-client-tcqy.vercel.app/)
+10. [Landing Page (Animation)](https://axtra-digital-agency.vercel.app/)
+11. [Power bank - Landing Page ](https://power-up-client.vercel.app/)
+12. [Restaurant](https://tsr-restaurent.web.app/)
+13. [Social Media Application](https://trustbookk.netlify.app/)
+14. [Furniture Landing Page with Next.js](https://solutyafurnituredb.vercel.app/)
+15. [E-commerce (Design)](https://oribi-react.netlify.app/)
+16. [Amazon Shopping (JavaScript)](https://amazon-shopping-c.netlify.app/shop)
+17. [BWFC (Design Only)](https://bwfc-bff.netlify.app/)
+18. [Creative Bank (JavaScript)](https://tushar-creative-bank.netlify.app/)
+19. [Calculator (JavaScript)](https://silly-dragon-d4e2cb.netlify.app/)
+20. [To-Do App (JavaScript)](https://zesty-naiad-e0c793.netlify.app/)
 
 ---
 
